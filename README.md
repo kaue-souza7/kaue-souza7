@@ -14,6 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-costa-souza-5a510523b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauekaue960@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaue-souza7)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kauecs.xyz)
+
+
+
 
 <br/>
 
